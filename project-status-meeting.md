@@ -11,78 +11,26 @@ could you walk me through the current status of the Wilson project certainly we'
 
 ## Dialogue
 
-### Could you walk me through the current status of the project?
-```
-プロジェクトの現在の状況について説明していただけますか
-```
-### Certainly, we're tracking slightly behind schedule but we've implemented mitigation measures to catch up
-```
-もちろんです。スケジュールより少し遅れていますが、追いつくための緩和策を実施しています
-```
-### What specifically is causing the delay?
-```
-具体的に何が遅れの原因となっているのですか
-```
-### The main bottleneck has been the vendor delayed delivery of key components
-```
-主なボトルネックは、ベンダーによる重要コンポーネントの納期遅れです
-```
-### Have you considered alternative suppliers?
-```
-代替サプライヤーを検討しましたか
-```
-### Yes I've already shortlisted three potential backup vendors as contingency
-```
-はい、すでに緊急時対応として3社の潜在的なバックアップベンダーを候補として絞り込んでいます
-```
-### What's the impact on our budget?
-```
-予算への影響はどうですか
-```
-### We're still within our allocated budget but there's only a 5% buffer remaining
-```
-まだ割り当てられた予算内ですが、残りの余裕は5%しかありません
-```
-### Can you send me a detailed breakdown of the remaining costs?
-```
-残りのコストの詳細な内訳を送ってもらえますか
-```
-### I'll prepare a comprehensive cost analysis report by tomorrow morning
-```
-明日の朝までに包括的なコスト分析レポートを準備します
-```
-### How about the client's reaction to these delays?
-```
-これらの遅れに対するクライアントの反応はどうですか
-```
-### They are understandably concerned but I've been maintaining transparent communication with them
-```
-- 理解できる懸念を抱いていますが、透明性のあるコミュニケーションを維持しています
-```
-### What's your proposed timeline for getting back on track?
-```
-軌道に戻るための提案スケジュールはどうですか
-```
-### I estimate we can make up the loss time within 3 weeks if we Implement overtime?
-```
-残業を実施すれば、3週間以内に遅れを取り戻せると見積もっています
-```
-### Do we need to allocate additional resources?
-```
-追加リソースを割り当てる必要がありますか
-```
-### Yes I recommend bringing in two more team members temporarily
-```
-はい、一時的にチームメンバーを2名追加することをお勧めします
-```
-### Let's schedule a follow-up meeting next week to review progress
-```
-進捗を確認するため、来週フォローアップミーティングをスケジュールしましょう
-```
-### I'll send out a calendar invitation for next Wednesday at 2: p.m.
-```
-来週の水曜日午後2時のカレンダー招待状を送信します
-```
+| 英文 | 日本文 |
+|------|--------|
+| Could you walk me through the current status of the project? | プロジェクトの現在の状況について説明していただけますか |
+| Certainly, we're tracking slightly behind schedule but we've implemented mitigation measures to catch up | もちろんです。スケジュールより少し遅れていますが、追いつくための緩和策を実施しています |
+| What specifically is causing the delay? | 具体的に何が遅れの原因となっているのですか |
+| The main bottleneck has been the vendor delayed delivery of key components | 主なボトルネックは、ベンダーによる重要コンポーネントの納期遅れです |
+| Have you considered alternative suppliers? | 代替サプライヤーを検討しましたか |
+| Yes I've already shortlisted three potential backup vendors as contingency | はい、すでに緊急時対応として3社の潜在的なバックアップベンダーを候補として絞り込んでいます |
+| What's the impact on our budget? | 予算への影響はどうですか |
+| We're still within our allocated budget but there's only a 5% buffer remaining | まだ割り当てられた予算内ですが、残りの余裕は5%しかありません |
+| Can you send me a detailed breakdown of the remaining costs? | 残りのコストの詳細な内訳を送ってもらえますか |
+| I'll prepare a comprehensive cost analysis report by tomorrow morning | 明日の朝までに包括的なコスト分析レポートを準備します |
+| How about the client's reaction to these delays? | これらの遅れに対するクライアントの反応はどうですか |
+| They are understandably concerned but I've been maintaining transparent communication with them | 理解できる懸念を抱いていますが、透明性のあるコミュニケーションを維持しています |
+| What's your proposed timeline for getting back on track? | 軌道に戻るための提案スケジュールはどうですか |
+| I estimate we can make up the loss time within 3 weeks if we Implement overtime | 残業を実施すれば、3週間以内に遅れを取り戻せると見積もっています |
+| Do we need to allocate additional resources? | 追加リソースを割り当てる必要がありますか |
+| Yes I recommend bringing in two more team members temporarily | はい、一時的にチームメンバーを2名追加することをお勧めします |
+| Let's schedule a follow-up meeting next week to review progress | 進捗を確認するため、来週フォローアップミーティングをスケジュールしましょう |
+| I'll send out a calendar invitation for next Wednesday at 2 p.m. | 来週の水曜日午後2時のカレンダー招待状を送信します |
 
 <br>
 
