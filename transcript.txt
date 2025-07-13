@@ -92,8 +92,7 @@ let's listen again how's the development of the new product line progressing we'
 
 go to the next conversation 
 
-let's discuss the
-(23:28) implementation of our new CRM system I've prepared a phased rollout plan spanning the next quarter what's the status of data migration we've successfully transferred 60% of our customer data to the new platform are there any compatibility issues we've identified some integration challenges with our Legacy systems how are we handling employee training we're conducting Department specific workshops and providing providing online resources what's the expected productivity impact during transition we anticipate a 15% temporary
+let's discuss the implementation of our new CRM system I've prepared a phased rollout plan spanning the next quarter what's the status of data migration we've successfully transferred 60% of our customer data to the new platform are there any compatibility issues we've identified some integration challenges with our Legacy systems how are we handling employee training we're conducting Department specific workshops and providing providing online resources what's the expected productivity impact during transition we anticipate a 15% temporary
 (24:08) decrease during the first month have you established success metrics yes we're tracking adoption rates processing times and customer satisfaction what security measures are in place we've implemented multiactor authentication and encryption protocols how are we backing up the data we have automated daily backups with redundant cloud storage when will the system be fully operational full deployment is scheduled for completion by the end of next month 
 
 let's listen again let's discuss the implementation of our new CRM system I've prepared a phased rollout
@@ -131,8 +130,7 @@ let's listen again our Logistics costs have increased significantly this quarter
 
 go to the next conversation 
 
-it's time for our annual
-(33:56) benefits package review I've benchmarked our offerings against industry standards where are the main gaps we're lagging in Parental leave and mental health support what's the cost implication of upgrading a 12% increase in benefits budget would bring us above industry average have you surveyed employee preferences yes flexible working hours and enhanced healthc care coverage are top priorities what about retirement benefits I recommend increasing our 401K match to remain competitive can we Implement changes midyear yes we can roll out updates
+it's time for our annual benefits package review I've benchmarked our offerings against industry standards where are the main gaps we're lagging in Parental leave and mental health support what's the cost implication of upgrading a 12% increase in benefits budget would bring us above industry average have you surveyed employee preferences yes flexible working hours and enhanced healthc care coverage are top priorities what about retirement benefits I recommend increasing our 401K match to remain competitive can we Implement changes midyear yes we can roll out updates
 (34:41) during the next quarter how will this affect recruitment enhanced benefits should reduce our time to hire by 20% draft a communication plan for employees I'll prepare Town Hall presentations and detailed documentation 
 
 let's listen again it's time for our annual benefits package review I've benchmarked our offerings against industry standards where are the main gaps we're lagging in Parental leave and mental health support what's the cost implication of upgrading a 12% increase in benefits budget would bring us above industry
@@ -159,13 +157,15 @@ let's listen again our latest NPS scores indicate room for improvement I've anal
 
 go to the next conversation 
 
-the board wants a
-(41:06) comprehensive risk analysis report I've identified several critical areas requiring immediate attention what's our most significant vulnerability cyber security threats pose the highest immediate risk to operations have you Quantified potential losses a major breach could cause up to $5 million in direct and reputational damage what mitigation strategies do you recommend we should upgrade our security infrastructure and Implement regular penetration testing how about operational risks supply chain disruption and Key Personnel dependency need addressing what insurance coverage do we
-(41:51) need I recommend expanding our cyber liability and business Interruption coverage have you developed contingency plans yes I've prepared detailed response protocols for various scenarios when can you present this to the board I'll have the complete risk assessment ready by next board meeting schedule a preparatory review session I'll arrange it for early next week with the executive team 
+the board wants a comprehensive risk analysis report I've identified several critical areas requiring immediate attention what's our most significant vulnerability cyber security threats pose the highest immediate risk to operations have you Quantified potential losses a major breach could cause up to $5 million in direct and reputational damage what mitigation strategies do you recommend we should upgrade our security infrastructure and Implement regular penetration testing how about operational risks supply chain disruption and Key Personnel dependency need addressing what insurance coverage do we need I recommend expanding our cyber liability and business Interruption coverage have you developed contingency plans yes I've prepared detailed response protocols for various scenarios when can you present this to the board I'll have the complete risk assessment ready by next board meeting schedule a preparatory review session I'll arrange it for early next week with the executive team 
 
 let's listen again the board wants a comprehensive risk analysis report I've identified several critical areas requiring immediate attention what's our most significant
 (42:35) vulnerability cyber security threats pose the highest immediate risk to operations have you Quantified potential losses a major breach could cost up to $5 million in direct and reputational damage what mitigation strategies do you recommend we should upgrade our security infrastructure and Implement regular penetration testing how about operational risks supply chain disruption and Key Personnel dependency need addressing what insurance coverage do we need I recommend expanding our cyber liability and business Interruption
 (43:15) coverage have you developed contingency plans yes I've prepared detailed response protocols for various scenarios when can you present this to the board I'll have have the complete risk assessment ready by next board meeting schedule a preparatory review session I'll arrange it for early next week with the executive team 
+
+---
+ここまでやった
+---
 
 go to the next conversation 
 
