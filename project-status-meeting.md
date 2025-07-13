@@ -1,5 +1,14 @@
 # Project Status Meeting
 
+## Transcribe
+```
+could you walk me through the current status of the Wilson project certainly we're tracking slightly behind schedule but we've implemented mitigation measures to catch up what specifically is causing the delay the main bottleneck has been the vendor delayed delivery of key components have you considered alternative suppliers yes I've already shortlisted three potential backup vendors as contingency what's the impact on our
+(00:39) budget we're still within our allocated budget but there's only a 5% buffer remaining can you send me a detailed breakdown of the remaining costs I'll prepare a comprehensive cost analysis report by tomorrow morning how about the client's reaction to these delays their understanding ably concerned but I've been maintaining transparent communication with them what's your proposed timeline for getting back on track I estimate we can make up the loss time within 3 weeks if we Implement overtime do we need to allocate additional
+(01:17) resources yes I recommend bringing in two more team members temporarily let's schedule a follow-up meeting next week to review progress I'll send out a calendar invitation for next Wednesday at 2: p.m. 
+```
+
+<br>
+
 ## Dialogue
 
 ### Could you walk me through the current status of the project?
